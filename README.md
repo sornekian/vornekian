@@ -1,6 +1,5 @@
-# Vornekian Website
+# Dr Ornekian Website
 
-A modern and responsive website.
 
 ## Features
 - Home page
@@ -16,6 +15,3 @@ A modern and responsive website.
 ## Live Demo
 [View Website](https://sornekian.github.io/vornekian)
 
-## Setup
-1. Clone this repository
-2. Open `index.html` in your web browser
