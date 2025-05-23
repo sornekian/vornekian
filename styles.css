@@ -288,6 +288,14 @@ nav a:hover::after {
     max-width: none;
 }
 
+/* Mobile hero adjustments */
+@media screen and (max-width: 768px) {
+    .hero {
+        background-position: center 40%;
+        background-attachment: scroll;
+    }
+}
+
 .hero::before {
     content: '';
     position: absolute;
