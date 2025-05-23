@@ -1,6 +1,6 @@
-# Doctor Website
+# Vornekian Website
 
-A modern and responsive website for a doctor's practice.
+A modern and responsive website.
 
 ## Features
 - Home page
@@ -14,7 +14,7 @@ A modern and responsive website for a doctor's practice.
 - JavaScript
 
 ## Live Demo
-[View Website](https://YOUR-USERNAME.github.io/doctor-website)
+[View Website](https://sornekian.github.io/vornekian)
 
 ## Setup
 1. Clone this repository
