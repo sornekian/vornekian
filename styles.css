@@ -200,17 +200,27 @@ nav {
 }
 
 .logo {
-    font-size: 1.5rem;
-    font-weight: bold;
     color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
-.logo .full-name {
+.full-name {
     display: block;
 }
 
-.logo .short-name {
+.short-name {
     display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .full-name {
+        display: none;
+    }
+    
+    .short-name {
+        display: block;
+    }
 }
 
 /* Show short name on smaller screens */
